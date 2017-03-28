@@ -1,5 +1,5 @@
 # GitFun
 Repository for learning about git.
 
-Pull Request???
+How does pull requests work? 
 
