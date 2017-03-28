@@ -1,5 +1,5 @@
 # GitFun
 Repository for learning about git.
 
-Alex push test
+How does pull requests work? 
 
