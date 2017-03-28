@@ -1,5 +1,5 @@
 # GitFun
 Repository for learning about git.
 
-## First git pull request
+How does pull requests work? 
 
