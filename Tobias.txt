@@ -1,2 +1,3 @@
 Dette er en ny fil jeg har lavet
-Dette er linie 2
+Ny linie
+Dette er linie 3
